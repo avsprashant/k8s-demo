@@ -43,6 +43,3 @@ spec:
               secretKeyRef:
                 name: helloworld-secrets
                 key: database
----
----This app layer uses MYSQL_HOST with value database-service
----
